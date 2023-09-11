@@ -4,6 +4,7 @@
 class FizzBuzz {
 
     public static void main(String[] args) {
+        //hehe added a random comment 🫡
         /*
         for (int i = 1; i < 100; i++) {
 
